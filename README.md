@@ -37,4 +37,4 @@ tenho obtido bons resultados o que me inspira a continuar.
 ### 🔑 Minhas Redes:
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinaraf.waltrich?igsh=MW9uMnZizmsybHMwZA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dinaraf-waltrich-dweb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dinara-waltrich-85b3262ab/)
