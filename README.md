@@ -1,12 +1,6 @@
-
-
-
-
-  
-
 <img src="banner.gif" width="455px" align = "right">
 
-### Olá seja Bem Vindo(a) ao meu perfil💻
+## Olá seja Bem Vindo(a) ao meu perfil💻
 
 ✨Sou Dinara Ribeiro,
 iniciante na área web.
@@ -16,7 +10,7 @@ bootcamps e pequenos trabalhos,
 tenho obtido bons resultados o que me inspira a continuar.
 
 ---
-## Tecnologias desenvolvidas:
+### Tecnologias desenvolvidas:
 <div style="display: inline_block"><br/>
 <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -32,11 +26,14 @@ tenho obtido bons resultados o que me inspira a continuar.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+---
 
+ ### Conecte-se Comigo: 💌
 
-### 🔑 Minhas Redes:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinara-waltrich-85b3262ab/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinaraf.waltrich?igsh=MW9uMnZizmsybHMwZA==)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinara-waltrich-85b3262ab/)
+
+[![Profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/dinaraf_waltrich)
 
