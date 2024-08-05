@@ -28,6 +28,8 @@ tenho obtido bons resultados o que me inspira a continuar.
 
 ---
 
+![Relógio Digital Animado](https://dinara-ribeiro.github.io/relogio-digital/)
+
  ### Conecte-se Comigo: 💌
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinara-waltrich-85b3262ab/)
