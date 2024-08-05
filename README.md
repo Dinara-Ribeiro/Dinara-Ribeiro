@@ -27,8 +27,10 @@ tenho obtido bons resultados o que me inspira a continuar.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
+### Projeto novo 😍👇:
+[Relógio Digital Animado](https://dinara-ribeiro.github.io/relogio-digital/)
 
-![Relógio Digital Animado](https://dinara-ribeiro.github.io/relogio-digital/)
+---
 
  ### Conecte-se Comigo: 💌
 
